@@ -3,4 +3,4 @@
 
 ![RPG-Custom-FTP](no-logo)
 
-&copy; 2021[ResPinGuy](http://respinguy.tk)
+&copy; 2021 [ResPinGuy](http://respinguy.tk)
