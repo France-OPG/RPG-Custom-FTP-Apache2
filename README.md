@@ -1,5 +1,5 @@
 # RPG-Custom-FTP
-## Remplacer le style votre FTP.
+## Remplacer le style de votre FTP.
 
 ![RPG-Custom-FTP](no-logo)
 
