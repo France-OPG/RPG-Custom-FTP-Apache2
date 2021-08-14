@@ -1,6 +1,8 @@
 # RPG-Custom-FTP
 ## Remplacer le style classique de votre FTP pour un plus sympa. (Apache uniquement)
 
+✅ RPG-Custom-FTP fonctionne✅
+
 ![RPG-Custom-FTP](http://respinguy.tk/logo-img-theme/image/RPG-custom-FTP.png)
 
 ## Installation sur votre serveur Apache :
